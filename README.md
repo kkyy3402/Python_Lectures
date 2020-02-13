@@ -24,3 +24,7 @@
     - GUI 프로그래밍 
     - 머신러닝 
     - 컴퓨터 비전 기초(opencv)
+
+
+마크다운 참고 사이트
+https://hashcode.co.kr/questions/1772/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%9E%91%EC%84%B1-%ED%8C%81
